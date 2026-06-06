@@ -2,8 +2,7 @@
 
 Binary classification of news articles as real or fake, using BERT fine-tuned with LoRA on 44,000 articles from the LIAR and WELFake datasets.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
-![Python](https://img.shields.io/badge/Python-3.10-blue)
+[![Streamlit App](https://fake-news-detection-nvcn7jnblw5bmqqwvbdewx.streamlit.app/)
 
 ---
 
