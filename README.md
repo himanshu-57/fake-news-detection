@@ -20,12 +20,10 @@ Binary classification of news articles as real or fake, using BERT fine-tuned wi
 
 ## Results
 
-- **Test Accuracy:** 93.4%
-- **F1 Score:** 0.91
+- **Test Accuracy:** ~93%
+- **F1 Score:** ~0.9
 - **Training data:** 44,000 articles (LIAR + WELFake)
-- **Baseline (TF-IDF + Logistic Regression):** 82.1%
-
-BERT outperforms the baseline by 11 percentage points. The gap is mainly because bag-of-words models miss context — "the president confirmed" and "they don't want you to know" look similar at the word level but carry completely different credibility signals.
+- **Baseline (TF-IDF + Logistic Regression):** ~82%
 
 ---
 
