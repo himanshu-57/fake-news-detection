@@ -11,7 +11,7 @@ Binary classification of news articles as real or fake, using BERT fine-tuned wi
 | Component | Technology |
 |-----------|-----------|
 | Base model | bert-base-uncased |
-| Fine-tuning | LoRA via Hugging Face PEFT (r=8, alpha=32) |
+| Fine-tuning | LoRA via Hugging Face PEFT |
 | Training framework | Hugging Face Trainer API |
 | Dataset | LIAR + WELFake |
 | Frontend | Streamlit |
