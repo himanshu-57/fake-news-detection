@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+saved_model/
+results/
+*.pt
+*.bin
+*.json
+kaggle.json
+.env
+.ipynb_checkpoints/
